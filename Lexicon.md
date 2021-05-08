@@ -16,7 +16,7 @@
 | RCE | Remote Code Execution |
 | BEC | Business Email Compromise |
 | ICS | Industrial Control System |
-| SCADA | Supervisory Control and Data Acquisition |
+| SCADA | Supervisory control and data acquisition |
 | IoT | Internet of Things |
 | OT | Operational Technology |
 | LOLBin | Living of the Land Binary |
