@@ -47,3 +47,5 @@
 | Botnet | Network of infected devices |
 | Loader | Malware delivery system |
 | Patch Gap | Time between a software patch is released and vendors apply it |
+| Shell | Command and script interpreter deployed on a compromised system |
+| Webshell | Command and script interpreter deployed on a compromised website |
