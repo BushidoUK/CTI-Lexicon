@@ -16,6 +16,8 @@
 | RCE | Remote Code Execution |
 | BEC | Business Email Compromise |
 
+--------------------------------------------------
+
 | TERM | DESCRIPTION |
 | --- | --- |
 | Malware | Malicious Software |
