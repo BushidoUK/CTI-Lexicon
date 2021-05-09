@@ -64,8 +64,8 @@
 | DDoS | Distributed Denial of Service |
 | RCE | Remote Code Execution |
 | PoC | Proof of Concept |
-| LOLBin | Living of the Land Binary |
-| LOLBAS | Living of the Land Binary and Scripts |
+| LOLBin | Living off the Land Binary |
+| LOLBAS | Living off the Land Binary and Scripts |
 | POS | Point of Sale |
 | VM | Virtual Machine |
 | VPN | Virtual Private Network |
