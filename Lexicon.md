@@ -19,7 +19,7 @@
 | OT | Operational Technology |
 | TOR | The Onion Router |
 
-### `Geopol`
+### `Geopolitical`
 | ACRONYM | DESCRIPTION |
 | --- | --- |
 | MENA | Middle East and Northern Africa |
