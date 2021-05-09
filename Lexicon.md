@@ -1,9 +1,31 @@
 | ACRONYM | DESCRIPTION |
 | --- | --- |
 | CTI | Cyber Threat Intelligence |
+| IOC | Indicator of Compromise |
+| TLP | Traffic Light Protocol |
+| TTP | Tactics, Techniques, and Procedures |
+| RFI | Request For Information |
 | OSINT | Open Source Intelligence |
 | HUMINT | Human Intelligence |
 | SIGINT | Signal Intelligence |
+| SOCMINT | Social Media Intelligence |
+| MENA | Middle East and Northern Africa |
+| EMEA | Europe, Middle East, and Africa |
+| APAC | Asia-Pacific |
+| LATAM | Latin America |
+| NATO | North Atlantic Treaty Organisation |
+| FVEY | Five Eyes Intelligence Alliance - US, UK, Australia, Canada, New Zealand |
+| GRU | Main Intelligence Directorate of the Russian Federation |
+| SVR | Foreign Intelligence Service of the Russian Federation |
+| FSB | Russian Federal Security Service |
+| MSS | Chinese Ministry of State Security |
+| PLA | Chinese People's Liberation Army |
+| IRGC | Iranian Revolutionary Guard Corps |
+| RGB | North Korean Reconnaissance General Bureau |
+| NSA TAO | National Security Agency Tailored Access Operations |
+| CISA | Cybersecurity and Infrastructure Security Agency |
+| NCSC | UK National Cyber Security Centre |
+| GCHQ | UK General Communications Headquaters |
 | APT | Advanced Persistent Threat |
 | RAT | Remote Access Trojan |
 | FUD | Fully Undetected |
@@ -14,6 +36,7 @@
 | AaaS | Access as a Service |
 | DDoS | Distributed Denial of Service |
 | RCE | Remote Code Execution |
+| PoC | Proof of Concept |
 | BEC | Business Email Compromise |
 | ICS | Industrial Control System |
 | SCADA | Supervisory control and data acquisition |
@@ -22,6 +45,31 @@
 | LOLBin | Living of the Land Binary |
 | LOLBAS | Living of the Land Binary and Scripts |
 | POS | Point of Sale |
+| TOR | The Onion Router |
+| TA | Threat Actor |
+| SOC | Security Operations Centre |
+| CERT | Computer Emergency Response Team |
+| MSP | Managed Service Provider |
+| MSSP | Managed Security Service Provider |
+| VDP | Vulnerability Disclosure Program |
+| IR | Incident Response |
+| DFIR | Digital Forensics and Incident Response |
+| EDR | Endpoint Protection and Response |
+| AV | Antivirus |
+| FW | Firewall |
+| SIEM | Security Information and Event Management |
+| SOAR | Security Orchestration, Automation, and Response |
+| XDR | Extended Detection and Response |
+| VM | Virtual Machine |
+| VPN | Virtual Private Network |
+| VPS | Virtual Private Server |
+| RDP | Remote Desktop Protocol (Port 3389) |
+| SMB | Server Message Block (Port 139 or 445) |
+| XSS | Cross-site Scripting |
+| SQLi | Sequel Injection |
+| ROI | Return on Investment |
+| KYC | Know Your Customer |
+| DeFi | Decentralised Finance |
 
 | TERM | DESCRIPTION |
 | --- | --- |
@@ -30,17 +78,21 @@
 | Wiper | Malware that destroys data |
 | Worm | Self-spreading malware |
 | Spyware | Malicious Software for surveillance |
-| Phishing | Malicious email to push malware or harvesting credentials |
-| Phishing Kit | Collection of assets used to launch a phishing campaign |
 | Trojan | Malware in disguise |
 | Infostealer | Credential harvesting malware |
 | Skimmer | Malicious script that exfiltrates form data from a website|
 | Cryptojacker | Malicious cryptocurrency mining program  |
+| Phishing | Malicious email to push malware or harvesting credentials |
+| Phishing Kit | Collection of assets used to launch a phishing campaign |
+| SMiShing | SMS-based phishing |
+| Spear-phishing | highly targeted phishing |
+| Vishing | Voice-based phishing |
 | Vulnerability | An error found within a system |
 | Exploit | Leveraging a vulnerability to gain an advantage |
 | Exploit Kit | Toolkit that exploits multiple vulnerabilities to push malware |
 | 0day | Unpatched vulnerability |
 | PrivEsc | Privilege Escalation |
+| PreAuth | pre-authentication (access without authorisation) |
 | Packer | Malware obfuscation tool |
 | Payload | Component intended for delivery |
 | Backdoor | Remote access via an infected system |
@@ -49,3 +101,14 @@
 | Patch Gap | Time between a software patch is released and vendors apply it |
 | Shell | Command and script interpreter deployed on a compromised system |
 | Webshell | Command and script interpreter deployed on a compromised website |
+| Cybercrime | Computer aided crime (aka eCrime) |
+| Clearweb | websites without a barrier to entry |
+| Darknet | .onion sites invisible to the clearweb |
+| Deepweb | Closed parts of the clear web (e.g. group chats, private servers, underground forums) |
+| Doxxed | When an individual's private information is made public |
+| Honeypot | A system that mimics a device to attract attackers |
+| Social Engineering | Exploiting the human factor in a secure system |
+| Access Broker | A hacker who sells their initial foothold in a network |
+| Data Broker | A hacker who sells databases and information |
+| Counter Intelligence | Learning what the opposition knows |
+| Proxy | a separate internet connection between the destination and the source (aka VPN, VPS) |
