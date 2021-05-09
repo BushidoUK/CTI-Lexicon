@@ -19,6 +19,7 @@
 | IoT | Internet of Things |
 | OT | Operational Technology |
 | TOR | The Onion Router |
+| FUD (1) | Fear, Uncertainty, Doubt |
 
 ### `Geopolitical`
 | ACRONYM | DESCRIPTION |
@@ -54,7 +55,7 @@
 | ACRONYM | DESCRIPTION |
 | --- | --- |
 | RAT | Remote Access Trojan |
-| FUD | Fully Undetected |
+| FUD (2) | Fully Undetected |
 | C&C | Command and Control Server (aka C2 or CnC) |
 | RaaS | Ransomware as a Service |
 | MaaS | Malware as a Service |
