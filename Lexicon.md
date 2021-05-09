@@ -48,6 +48,7 @@
 | DOJ | US Department of Justice |
 | DHS | US Department of Homeland Security |
 | CISA | Cybersecurity and Infrastructure Security Agency |
+| ENISA | European Union Agency for Cybersecurity |
 | NCSC | UK National Cyber Security Centre |
 | GCHQ | UK General Communications Headquaters |
 | CCCS | Canadian Centre for Cyber Security |
@@ -91,6 +92,7 @@
 | --- | --- |
 | SOC | Security Operations Centre |
 | CERT | Computer Emergency Response Team |
+| ISAC | Information Sharing and Analysis Center |
 | ISP | Internet Service Provider |
 | MSP | Managed Service Provider |
 | MSSP | Managed Security Service Provider |
