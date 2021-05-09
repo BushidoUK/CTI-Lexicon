@@ -80,6 +80,7 @@
 | SMB | Server Message Block (Port 139 or 445) |
 | XSS | Cross-site Scripting |
 | SQLi | Sequel Injection |
+| TCP/IP | Transmission Control Protocol / Internet Protocol |
 | TLS | Transport Layer Security |
 | SSL | Secure Socket Layer |
 | SSH | Secure Shell Protocol |
