@@ -93,6 +93,7 @@
 | SOC | Security Operations Centre |
 | CERT | Computer Emergency Response Team |
 | ISAC | Information Sharing and Analysis Center |
+| PSIRT | Product Security Incident Response Team |
 | ISP | Internet Service Provider |
 | MSP | Managed Service Provider |
 | MSSP | Managed Security Service Provider |
