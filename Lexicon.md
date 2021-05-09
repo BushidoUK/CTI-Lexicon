@@ -12,6 +12,7 @@
 | MENA | Middle East and Northern Africa |
 | EMEA | Europe, Middle East, and Africa |
 | APAC | Asia-Pacific |
+| ASEAN | Association of Southeast Asian Nations |
 | LATAM | Latin America |
 | NATO | North Atlantic Treaty Organisation |
 | FVEY | Five Eyes Intelligence Alliance - US, UK, Australia, Canada, New Zealand |
