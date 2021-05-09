@@ -1,3 +1,4 @@
+### `General`
 | ACRONYM | DESCRIPTION |
 | --- | --- |
 | CTI | Cyber Threat Intelligence |
@@ -9,6 +10,18 @@
 | HUMINT | Human Intelligence |
 | SIGINT | Signal Intelligence |
 | SOCMINT | Social Media Intelligence |
+| TA | Threat Actor |
+| APT | Advanced Persistent Threat |
+| BEC | Business Email Compromise |
+| ICS | Industrial Control System |
+| SCADA | Supervisory control and data acquisition |
+| IoT | Internet of Things |
+| OT | Operational Technology |
+| TOR | The Onion Router |
+
+### `Geopol`
+| ACRONYM | DESCRIPTION |
+| --- | --- |
 | MENA | Middle East and Northern Africa |
 | EMEA | Europe, Middle East, and Africa |
 | APAC | Asia-Pacific |
@@ -28,7 +41,10 @@
 | CISA | Cybersecurity and Infrastructure Security Agency |
 | NCSC | UK National Cyber Security Centre |
 | GCHQ | UK General Communications Headquaters |
-| APT | Advanced Persistent Threat |
+
+### `Technical`
+| ACRONYM | DESCRIPTION |
+| --- | --- |
 | RAT | Remote Access Trojan |
 | FUD | Fully Undetected |
 | C&C | Command and Control Server (aka C2 or CnC) |
@@ -39,16 +55,20 @@
 | DDoS | Distributed Denial of Service |
 | RCE | Remote Code Execution |
 | PoC | Proof of Concept |
-| BEC | Business Email Compromise |
-| ICS | Industrial Control System |
-| SCADA | Supervisory control and data acquisition |
-| IoT | Internet of Things |
-| OT | Operational Technology |
 | LOLBin | Living of the Land Binary |
 | LOLBAS | Living of the Land Binary and Scripts |
 | POS | Point of Sale |
-| TOR | The Onion Router |
-| TA | Threat Actor |
+| VM | Virtual Machine |
+| VPN | Virtual Private Network |
+| VPS | Virtual Private Server |
+| RDP | Remote Desktop Protocol (Port 3389) |
+| SMB | Server Message Block (Port 139 or 445) |
+| XSS | Cross-site Scripting |
+| SQLi | Sequel Injection |
+
+### `Industry`
+| ACRONYM | DESCRIPTION |
+| --- | --- |
 | SOC | Security Operations Centre |
 | CERT | Computer Emergency Response Team |
 | MSP | Managed Service Provider |
@@ -62,17 +82,11 @@
 | SIEM | Security Information and Event Management |
 | SOAR | Security Orchestration, Automation, and Response |
 | XDR | Extended Detection and Response |
-| VM | Virtual Machine |
-| VPN | Virtual Private Network |
-| VPS | Virtual Private Server |
-| RDP | Remote Desktop Protocol (Port 3389) |
-| SMB | Server Message Block (Port 139 or 445) |
-| XSS | Cross-site Scripting |
-| SQLi | Sequel Injection |
 | ROI | Return on Investment |
 | KYC | Know Your Customer |
 | DeFi | Decentralised Finance |
 
+### `CTI Jargon`
 | TERM | DESCRIPTION |
 | --- | --- |
 | Malware | Malicious Software |
