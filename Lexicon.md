@@ -21,6 +21,7 @@
 | TOR | The Onion Router |
 | FUD (1) | Fear, Uncertainty, Doubt |
 | PII | Personally Identifiable Information |
+| | |
 
 ### `Geopolitical`
 | ACRONYM | DESCRIPTION |
@@ -51,6 +52,7 @@
 | GCHQ | UK General Communications Headquaters |
 | CCCS | Canadian Centre for Cyber Security |
 | ACSC | Australian Cyber Security Centre |
+| | |
 
 ### `Technical`
 | ACRONYM | DESCRIPTION |
@@ -81,6 +83,8 @@
 | SSH | Secure Shell Protocol |
 | 2FA | Two-factor authentication |
 | MFA | Multi-factor authentication |
+| API | Application Programming Interface |
+| | |
 
 ### `Industry`
 | ACRONYM | DESCRIPTION |
@@ -109,6 +113,7 @@
 | CCPA | California Consumer Privacy Act |
 | CMA | Computer Misuse Act |
 | CFAA | Computer Fraud and Abuse Act |
+| | |
 
 ### `CTI Jargon`
 | TERM | DESCRIPTION |
@@ -153,3 +158,4 @@
 | Proxy | A separate internet connection between the destination and the source (aka VPN, VPS) |
 | Counter Intelligence | Learning what the opposition knows |
 | NatSec | National Security |
+| | |
