@@ -24,6 +24,7 @@
 | IRGC | Iranian Revolutionary Guard Corps |
 | RGB | North Korean Reconnaissance General Bureau |
 | NSA TAO | National Security Agency Tailored Access Operations |
+| NSA SID | National Security Agency Signals Intelligence Directorate |
 | CISA | Cybersecurity and Infrastructure Security Agency |
 | NCSC | UK National Cyber Security Centre |
 | GCHQ | UK General Communications Headquaters |
