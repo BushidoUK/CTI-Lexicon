@@ -20,12 +20,6 @@
 | OT | Operational Technology |
 | TOR | The Onion Router |
 | FUD (1) | Fear, Uncertainty, Doubt |
-| LEA | Law Enforcement Agency |
-| UTM | Unified Threat Management |
-| GDPR | General Data Protection Regulation |
-| CCPA | California Consumer Privacy Act |
-| CMA | Computer Misuse Act |
-| CFAA | Computer Fraud and Abuse Act |
 | PII | Personally Identifiable Information |
 
 ### `Geopolitical`
@@ -109,6 +103,12 @@
 | ROI | Return on Investment |
 | KYC | Know Your Customer |
 | DeFi | Decentralised Finance |
+| UTM | Unified Threat Management |
+| LEA | Law Enforcement Agency |
+| GDPR | General Data Protection Regulation |
+| CCPA | California Consumer Privacy Act |
+| CMA | Computer Misuse Act |
+| CFAA | Computer Fraud and Abuse Act |
 
 ### `CTI Jargon`
 | TERM | DESCRIPTION |
