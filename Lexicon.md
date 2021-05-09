@@ -50,7 +50,7 @@
 | CISA | Cybersecurity and Infrastructure Security Agency |
 | ENISA | European Union Agency for Cybersecurity |
 | NCSC | UK National Cyber Security Centre |
-| GCHQ | UK General Communications Headquaters |
+| GCHQ | UK Government Communications Headquaters |
 | CCCS | Canadian Centre for Cyber Security |
 | ACSC | Australian Cyber Security Centre |
 | | |
@@ -59,7 +59,6 @@
 | ACRONYM | DESCRIPTION |
 | --- | --- |
 | RAT | Remote Access Trojan |
-| FUD (2) | Fully Undetected |
 | C&C | Command and Control Server (aka C2 or CnC) |
 | RaaS | Ransomware as a Service |
 | MaaS | Malware as a Service |
@@ -78,13 +77,17 @@
 | SMB | Server Message Block (Port 139 or 445) |
 | XSS | Cross-site Scripting |
 | SQLi | Sequel Injection |
+| FUD (2) | Fully Undetected |
 | TCP/IP | Transmission Control Protocol / Internet Protocol |
 | TLS | Transport Layer Security |
 | SSL | Secure Socket Layer |
 | SSH | Secure Shell Protocol |
 | 2FA | Two-factor authentication |
 | MFA | Multi-factor authentication |
+| OTP | One-Time Passcode |
 | API | Application Programming Interface |
+| CDN | Content Delivery Network |
+| EDN | Email Distribution Network |
 | | |
 
 ### `Industry`
@@ -94,6 +97,7 @@
 | CERT | Computer Emergency Response Team |
 | ISAC | Information Sharing and Analysis Center |
 | PSIRT | Product Security Incident Response Team |
+| CSIRT | Computer Security Incident Response Team |
 | ISP | Internet Service Provider |
 | MSP | Managed Service Provider |
 | MSSP | Managed Security Service Provider |
@@ -118,6 +122,7 @@
 | CCPA | California Consumer Privacy Act |
 | CMA | Computer Misuse Act |
 | CFAA | Computer Fraud and Abuse Act |
+| IP | Intellectual Property |
 | BTC | Bitcoin |
 | ETH | Ethereum |
 | XMR | Monero |
@@ -165,5 +170,7 @@
 | Data Broker | A hacker who sells databases and information |
 | Proxy | A separate internet connection between the destination and the source (aka VPN, VPS) |
 | Counter Intelligence | Learning what the opposition knows |
+| Cyber-espionage | Computer-enabled state intelligence campaigns |
+| State-sponsored | Supported financially or authorised by a sovereign state |
 | NatSec | National Security |
 | | |
