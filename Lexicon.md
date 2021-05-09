@@ -91,6 +91,7 @@
 | --- | --- |
 | SOC | Security Operations Centre |
 | CERT | Computer Emergency Response Team |
+| ISP | Internet Service Provider |
 | MSP | Managed Service Provider |
 | MSSP | Managed Security Service Provider |
 | VDP | Vulnerability Disclosure Program |
