@@ -126,7 +126,7 @@
 | Shell | Command and script interpreter deployed on a compromised system |
 | Webshell | Command and script interpreter deployed on a compromised website |
 | Cybercrime | Computer aided crime (aka eCrime) |
-| Clearweb | websites without a barrier to entry |
+| Clearweb | Websites without a barrier to entry |
 | Darknet | .onion sites invisible to the clearweb |
 | Deepweb | Closed parts of the clear web (e.g. group chats, private servers, underground forums) |
 | Doxxed | When an individual's private information is made public |
@@ -134,6 +134,6 @@
 | Social Engineering | Exploiting the human factor in a secure system |
 | Access Broker | A hacker who sells their initial foothold in a network |
 | Data Broker | A hacker who sells databases and information |
-| Proxy | a separate internet connection between the destination and the source (aka VPN, VPS) |
+| Proxy | A separate internet connection between the destination and the source (aka VPN, VPS) |
 | Counter Intelligence | Learning what the opposition knows |
 | NatSec | National Security |
