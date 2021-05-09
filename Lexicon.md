@@ -113,6 +113,9 @@
 | CCPA | California Consumer Privacy Act |
 | CMA | Computer Misuse Act |
 | CFAA | Computer Fraud and Abuse Act |
+| BTC | Bitcoin |
+| ETH | Ethereum |
+| XMR | Monero |
 | | |
 
 ### `CTI Jargon`
