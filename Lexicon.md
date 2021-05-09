@@ -107,6 +107,8 @@
 | SIEM | Security Information and Event Management |
 | SOAR | Security Orchestration, Automation, and Response |
 | XDR | Extended Detection and Response |
+| ML | Machine Learning |
+| AI | Artificial Intelligence |
 | ROI | Return on Investment |
 | KYC | Know Your Customer |
 | DeFi | Decentralised Finance |
