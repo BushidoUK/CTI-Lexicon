@@ -46,6 +46,8 @@
 | CISA | Cybersecurity and Infrastructure Security Agency |
 | NCSC | UK National Cyber Security Centre |
 | GCHQ | UK General Communications Headquaters |
+| CCCS | Canadian Centre for Cyber Security |
+| ACSC | Australian Cyber Security Centre |
 
 ### `Technical`
 | ACRONYM | DESCRIPTION |
@@ -79,6 +81,7 @@
 | MSP | Managed Service Provider |
 | MSSP | Managed Security Service Provider |
 | VDP | Vulnerability Disclosure Program |
+| MAR | Malware Analysis Report |
 | IR | Incident Response |
 | DFIR | Digital Forensics and Incident Response |
 | EDR | Endpoint Protection and Response |
