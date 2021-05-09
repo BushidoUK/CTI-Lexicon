@@ -38,6 +38,11 @@
 | RGB | North Korean Reconnaissance General Bureau |
 | NSA TAO | National Security Agency Tailored Access Operations |
 | NSA SID | National Security Agency Signals Intelligence Directorate |
+| CIA | Central Intelligence Agency |
+| CYBERCOM | United States Cyber Command |
+| FBI | Federal Bureau of Investigation |
+| DOJ | US Department of Justice |
+| DHS | US Department of Homeland Security |
 | CISA | Cybersecurity and Infrastructure Security Agency |
 | NCSC | UK National Cyber Security Centre |
 | GCHQ | UK General Communications Headquaters |
@@ -126,5 +131,6 @@
 | Social Engineering | Exploiting the human factor in a secure system |
 | Access Broker | A hacker who sells their initial foothold in a network |
 | Data Broker | A hacker who sells databases and information |
-| Counter Intelligence | Learning what the opposition knows |
 | Proxy | a separate internet connection between the destination and the source (aka VPN, VPS) |
+| Counter Intelligence | Learning what the opposition knows |
+| NatSec | National Security |
