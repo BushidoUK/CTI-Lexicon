@@ -6,6 +6,7 @@
 | TLP | Traffic Light Protocol |
 | TTP | Tactics, Techniques, and Procedures |
 | RFI | Request For Information |
+| PIR | Priority Intelligence Requirements |
 | OSINT | Open Source Intelligence |
 | HUMINT | Human Intelligence |
 | SIGINT | Signal Intelligence |
