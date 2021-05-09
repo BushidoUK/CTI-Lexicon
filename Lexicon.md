@@ -20,6 +20,12 @@
 | OT | Operational Technology |
 | TOR | The Onion Router |
 | FUD (1) | Fear, Uncertainty, Doubt |
+| LEA | Law Enforcement Agency |
+| UTM | Unified Threat Management |
+| GDPR | General Data Protection Regulation |
+| CCPA | California Consumer Privacy Act |
+| CMA | Computer Misuse Act |
+| CFAA | Computer Fraud and Abuse Act |
 
 ### `Geopolitical`
 | ACRONYM | DESCRIPTION |
@@ -74,6 +80,11 @@
 | SMB | Server Message Block (Port 139 or 445) |
 | XSS | Cross-site Scripting |
 | SQLi | Sequel Injection |
+| TLS | Transport Layer Security |
+| SSL | Secure Socket Layer |
+| SSH | Secure Shell Protocol |
+| 2FA | Two-factor authentication |
+| MFA | Multi-factor authentication |
 
 ### `Industry`
 | ACRONYM | DESCRIPTION |
