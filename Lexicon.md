@@ -26,6 +26,7 @@
 | CCPA | California Consumer Privacy Act |
 | CMA | Computer Misuse Act |
 | CFAA | Computer Fraud and Abuse Act |
+| PII | Personally Identifiable Information |
 
 ### `Geopolitical`
 | ACRONYM | DESCRIPTION |
