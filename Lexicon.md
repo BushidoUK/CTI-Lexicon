@@ -36,7 +36,7 @@
 | FSB | Russian Federal Security Service |
 | MSS | Chinese Ministry of State Security |
 | PLA | Chinese People's Liberation Army |
-| IRGC | Iranian Revolutionary Guard Corps |
+| IRGC | Islamic Revolutionary Guard Corps of Iran |
 | RGB | North Korean Reconnaissance General Bureau |
 | NSA TAO | National Security Agency Tailored Access Operations |
 | NSA SID | National Security Agency Signals Intelligence Directorate |
