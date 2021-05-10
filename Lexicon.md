@@ -2,6 +2,7 @@
 | ACRONYM | DESCRIPTION |
 | --- | --- |
 | CTI | Cyber Threat Intelligence |
+| TIP | Threat Intelligence Portal |
 | IOC | Indicator of Compromise |
 | TLP | Traffic Light Protocol |
 | TTP | Tactics, Techniques, and Procedures |
@@ -136,6 +137,7 @@
 | DV/eDV | Developed Vetting / Enhanced Developed Vetting |
 | FOIA | Freedom of Information Act |
 | TTX | Table Top Exercise |
+| HIBP | Have I Been Pwned |
 | | |
 
 ### `CTI Jargon`
