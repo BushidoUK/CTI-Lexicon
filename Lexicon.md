@@ -82,6 +82,9 @@
 | RDP | Remote Desktop Protocol (Port 3389) |
 | SMB | Server Message Block (Port 139 or 445) |
 | XSS | Cross-site Scripting |
+| CSRF | Cross-site Request Forgery |
+| SSRF | Server-side Request Forgery |
+| XXE | XML External Entity |
 | SQLi | Sequel Injection |
 | FUD (2) | Fully Undetected |
 | TCP/IP | Transmission Control Protocol / Internet Protocol |
@@ -142,6 +145,7 @@
 | FOIA | Freedom of Information Act |
 | TTX | Table Top Exercise |
 | HIBP | Have I Been Pwned |
+| WP | WordPress |
 | | |
 
 ### `CTI Jargon`
