@@ -190,4 +190,5 @@
 | NatSec | National Security |
 | Drive-by Compromise | Unintentional download of malicious code |
 | Sock Puppet | Fictitious online identity |
+| Carding | Fraud using stolen credit cards |
 | | |
