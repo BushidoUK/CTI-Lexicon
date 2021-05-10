@@ -135,6 +135,7 @@
 | SC/eSC | Security Check / Enhanced Security Check |
 | DV/eDV | Developed Vetting / Enhanced Developed Vetting |
 | FOIA | Freedom of Information Act |
+| TTX | Table Top Exercise |
 | | |
 
 ### `CTI Jargon`
