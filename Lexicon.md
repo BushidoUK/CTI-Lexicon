@@ -15,6 +15,7 @@
 | OPSEC | Operational Security |  
 | TA | Threat Actor |
 | APT | Advanced Persistent Threat |
+| AKA | Also Known As |
 | BEC | Business Email Compromise |
 | ICS | Industrial Control System |
 | SCADA | Supervisory control and data acquisition |
