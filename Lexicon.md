@@ -24,7 +24,7 @@
 | FUD (1) | Fear, Uncertainty, Doubt |
 | PII | Personally Identifiable Information |
 | BGH | Big Game Hunting |
-| HOR | Human Operated Ransomware |
+| HOR | Human-operated Ransomware |
 | HOK | Hands-on-Keyboard |
 | | |
 
