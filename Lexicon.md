@@ -32,6 +32,7 @@
 ### `Geopolitical`
 | ACRONYM | DESCRIPTION |
 | --- | --- |
+| APAC | Asia, Middle East and Africa |
 | MENA | Middle East and Northern Africa |
 | EMEA | Europe, Middle East, and Africa |
 | APAC | Asia-Pacific |
@@ -69,20 +70,22 @@
 | RaaS | Ransomware as a Service |
 | MaaS | Malware as a Service |
 | DaaS | Downloader as a Service |
+| PaaS | Phishing as a Service |
 | AaaS | Access as a Service |
+| DoS | Denial of Service |
 | DDoS | Distributed Denial of Service |
 | RCE | Remote Code Execution |
 | PoC | Proof of Concept |
 | LOLBin | Living off the Land Binary |
 | LOLBAS | Living off the Land Binary and Scripts |
-| POS | Point of Sale |
+| PoS | Point of Sale |
 | VM | Virtual Machine |
 | VPN | Virtual Private Network |
 | VPS | Virtual Private Server |
 | RDP | Remote Desktop Protocol (Port 3389) |
 | SMB | Server Message Block (Port 139 or 445) |
 | XSS | Cross-site Scripting |
-| SQLi | Sequel Injection |
+| SQLi | Sequel Injection (SQL Injection) |
 | FUD (2) | Fully Undetected |
 | TCP/IP | Transmission Control Protocol / Internet Protocol |
 | TLS | Transport Layer Security |
@@ -142,6 +145,7 @@
 | FOIA | Freedom of Information Act |
 | TTX | Table Top Exercise |
 | HIBP | Have I Been Pwned |
+| MISP | Malware Information Sharing Platform |
 | | |
 
 ### `CTI Jargon`
