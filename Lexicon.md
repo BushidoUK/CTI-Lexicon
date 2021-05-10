@@ -99,6 +99,8 @@
 | EDN | Email Distribution Network |
 | MitM | Man in the Middle |
 | MitB | Man in the Browser |
+| MBR | Master Boot Record |
+| MFT | Master File Table |
 | | |
 
 ### `Industry`
@@ -196,4 +198,5 @@
 | Drive-by Compromise | Unintentional download of malicious code |
 | Sock Puppet | Fictitious online identity |
 | Carding | Fraud using stolen credit cards |
+| Magecart | Cybercriminals who target online shopping cart systems built with Magento |
 | | |
