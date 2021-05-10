@@ -101,6 +101,9 @@
 | MitB | Man in the Browser |
 | MBR | Master Boot Record |
 | MFT | Master File Table |
+| AD | Active Directory |
+| AAD | Azure Active Directory |
+| DC | Domain Controller |
 | | |
 
 ### `Industry`
