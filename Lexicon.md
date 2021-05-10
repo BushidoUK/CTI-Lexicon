@@ -131,7 +131,7 @@
 | FOUO | For Official Use Only |
 | ORCON | Originator Control |
 | NOFORN | No Foreign Nationals |
-| SC/eSC | Security Check / Enhanced Security Checl |
+| SC/eSC | Security Check / Enhanced Security Check |
 | DV/eDV | Developed Vetting / Enhanced Developed Vetting |
 | FOIA | Freedom of Information Act |
 | | |
