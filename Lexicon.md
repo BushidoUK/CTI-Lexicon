@@ -11,6 +11,7 @@
 | HUMINT | Human Intelligence |
 | SIGINT | Signal Intelligence |
 | SOCMINT | Social Media Intelligence |
+| OPSEC | Operational Security |  
 | TA | Threat Actor |
 | APT | Advanced Persistent Threat |
 | BEC | Business Email Compromise |
