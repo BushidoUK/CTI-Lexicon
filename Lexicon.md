@@ -104,6 +104,7 @@
 | AD | Active Directory |
 | AAD | Azure Active Directory |
 | DC | Domain Controller |
+| NTFS | New Technology File System |
 | | |
 
 ### `Industry`
@@ -150,7 +151,7 @@
 | FOIA | Freedom of Information Act |
 | TTX | Table Top Exercise |
 | HIBP | Have I Been Pwned |
-| WP | WordPress |
+| WP | Word Press |
 | | |
 
 ### `CTI Jargon`
