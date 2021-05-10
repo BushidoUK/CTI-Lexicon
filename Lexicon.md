@@ -88,6 +88,8 @@
 | API | Application Programming Interface |
 | CDN | Content Delivery Network |
 | EDN | Email Distribution Network |
+| MitM | Man in the Middle |
+| MitB | Man in the Browser |
 | | |
 
 ### `Industry`
@@ -105,7 +107,7 @@
 | MAR | Malware Analysis Report |
 | IR | Incident Response |
 | DFIR | Digital Forensics and Incident Response |
-| EDR | Endpoint Protection and Response |
+| EDR | Endpoint Detection and Response |
 | AV | Antivirus |
 | FW | Firewall |
 | SIEM | Security Information and Event Management |
@@ -126,6 +128,12 @@
 | BTC | Bitcoin |
 | ETH | Ethereum |
 | XMR | Monero |
+| FOUO | For Official Use Only |
+| ORCON | Originator Control |
+| NOFORN | No Foreign Nationals |
+| SC/eSC | Security Check / Enhanced Security Checl |
+| DV/eDV | Developed Vetting / Enhanced Developed Vetting |
+| FOIA | Freedom of Information Act |
 | | |
 
 ### `CTI Jargon`
@@ -173,4 +181,6 @@
 | Cyber-espionage | Computer-enabled state intelligence campaigns |
 | State-sponsored | Supported financially or authorised by a sovereign state |
 | NatSec | National Security |
+| Drive-by Compromise | Unintentional download of malicious code |
+| Sock Puppet | Fictitious online identity |
 | | |
