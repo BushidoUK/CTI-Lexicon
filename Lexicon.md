@@ -23,6 +23,9 @@
 | TOR | The Onion Router |
 | FUD (1) | Fear, Uncertainty, Doubt |
 | PII | Personally Identifiable Information |
+| BGH | Big Game Hunting |
+| HOR | Human Operated Ransomware |
+| HOK | Hands-on-Keyboard |
 | | |
 
 ### `Geopolitical`
