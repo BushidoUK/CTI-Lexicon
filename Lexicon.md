@@ -7,6 +7,7 @@
 | TLP | Traffic Light Protocol |
 | TTP | Tactics, Techniques, and Procedures |
 | RFI | Request For Information |
+| SOP | Standard Operating Procedure |
 | PIR | Priority Intelligence Requirements |
 | OSINT | Open Source Intelligence |
 | HUMINT | Human Intelligence |
@@ -17,16 +18,16 @@
 | APT | Advanced Persistent Threat |
 | AKA | Also Known As |
 | BEC | Business Email Compromise |
-| ICS | Industrial Control System |
-| SCADA | Supervisory control and data acquisition |
 | IoT | Internet of Things |
-| OT | Operational Technology |
 | TOR | The Onion Router |
 | FUD (1) | Fear, Uncertainty, Doubt |
 | PII | Personally Identifiable Information |
 | BGH | Big Game Hunting |
 | HOR | Human-operated Ransomware |
 | HOK | Hands-on-Keyboard |
+| MSM | Main-stream Media |
+| CVE | Common Vulnerabilities and Exploits |
+| CWE | Common Weaknesses Enumeration |
 | | |
 
 ### `Geopolitical`
@@ -125,6 +126,11 @@
 | EDR | Endpoint Detection and Response |
 | AV | Antivirus |
 | FW | Firewall |
+| ICS | Industrial Control System |
+| SCADA | Supervisory control and data acquisition |
+| OT | Operational Technology |
+| PLC | Programmable Logic Controller |
+| HMI | Human Machine Interface |
 | SIEM | Security Information and Event Management |
 | SOAR | Security Orchestration, Automation, and Response |
 | XDR | Extended Detection and Response |
@@ -185,6 +191,7 @@
 | Patch Gap | Time between a software patch is released and vendors apply it |
 | Shell | Command and script interpreter deployed on a compromised system |
 | Webshell | Command and script interpreter deployed on a compromised website |
+| Enumeration | The process of listing all the attributes of a system |
 | Cybercrime | Computer aided crime (aka eCrime) |
 | Clearweb | Websites without a barrier to entry |
 | Darknet | .onion sites invisible to the clearweb |
