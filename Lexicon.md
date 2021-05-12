@@ -38,6 +38,7 @@
 | APAC | Asia-Pacific |
 | ASEAN | Association of Southeast Asian Nations |
 | LATAM | Latin America |
+| CIS | Commonwealth of Independent States |
 | NATO | North Atlantic Treaty Organisation |
 | FVEY | Five Eyes Intelligence Alliance - US, UK, Australia, Canada, New Zealand |
 | GRU | Main Intelligence Directorate of the Russian Federation |
@@ -60,6 +61,14 @@
 | GCHQ | UK Government Communications Headquaters |
 | CCCS | Canadian Centre for Cyber Security |
 | ACSC | Australian Cyber Security Centre |
+| BND | Federal Intelligence Service of Germany |
+| AIVD | General Intelligence and Security Service of Netherlands |
+| ISI | Inter-Services Intelligence of Pakistan |
+| IB | Intelligence Bureau of India |
+| GIP | General Intelligence Presidency of Saudi |
+| SIA | Signals Intelligence Agency of UAE |
+| DGSE | Directorate-General for External Security of France |
+| NIS | National Intelligence Service of South Korea |
 | | |
 
 ### `Technical`
@@ -71,6 +80,9 @@
 | MaaS | Malware as a Service |
 | DaaS | Downloader as a Service |
 | AaaS | Access as a Service |
+| IaC | Infrastructure as Code |
+| SaaS | Software as a Service |
+| PaaS | Platform as a Sevice |
 | DDoS | Distributed Denial of Service |
 | RCE | Remote Code Execution |
 | PoC | Proof of Concept |
@@ -106,6 +118,15 @@
 | AAD | Azure Active Directory |
 | DC | Domain Controller |
 | NTFS | New Technology File System |
+| NRD | Newly Registered Domain |
+| FQDN | Fully Qualified Domain Name |
+| JS | JavaScriot |
+| VBS | Visual Basic Script |
+| VBA | Visual Basic for Applications |
+| GPO | Group Policy |
+| OS | Operating System |
+| SSD | Solid State Drive |
+| HDD | Hard Disk Drive |
 | | |
 
 ### `Industry`
@@ -126,11 +147,16 @@
 | EDR | Endpoint Detection and Response |
 | AV | Antivirus |
 | FW | Firewall |
+| DRP | Disaster Recovery Plan |
+| BCP | Business Continuity Plan |
 | ICS | Industrial Control System |
 | SCADA | Supervisory control and data acquisition |
 | OT | Operational Technology |
 | PLC | Programmable Logic Controller |
 | HMI | Human Machine Interface |
+| DCS | Distributed Control System |
+| SIS | Safety Instrumented Systems |
+| CNI | Critical National Infrastructure | 
 | SIEM | Security Information and Event Management |
 | SOAR | Security Orchestration, Automation, and Response |
 | XDR | Extended Detection and Response |
@@ -138,6 +164,9 @@
 | AI | Artificial Intelligence |
 | ROI | Return on Investment |
 | KYC | Know Your Customer |
+| FMCG | Fast Moving Consumer Goods |
+| NPP | Nuclear Power Plant |
+| O&G | Oil and Gas (also ONG) |
 | DeFi | Decentralised Finance |
 | UTM | Unified Threat Management |
 | LEA | Law Enforcement Agency |
@@ -158,6 +187,8 @@
 | TTX | Table Top Exercise |
 | HIBP | Have I Been Pwned |
 | WP | Word Press |
+| AWS | Amazon Web Services |
+| GCP | Google Cloud Platform |
 | | |
 
 ### `CTI Jargon`
@@ -210,4 +241,5 @@
 | Sock Puppet | Fictitious online identity |
 | Carding | Fraud using stolen credit cards |
 | Magecart | Cybercriminals who target online shopping cart systems built with Magento |
+| Golden Image/VM | Templates of OS images with preconfigured settings and applications that can redeployed quickly |
 | | |
