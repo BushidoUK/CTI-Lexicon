@@ -16,6 +16,9 @@
 | OPSEC | Operational Security |  
 | TA | Threat Actor |
 | APT | Advanced Persistent Threat |
+| CNOs | Computer Network Operators |
+| IOs | Influence Operations |
+| PSYOPS | Psychological Operations |
 | AKA | Also Known As |
 | BEC | Business Email Compromise |
 | IoT | Internet of Things |
@@ -120,7 +123,7 @@
 | NTFS | New Technology File System |
 | NRD | Newly Registered Domain |
 | FQDN | Fully Qualified Domain Name |
-| JS | JavaScriot |
+| JS | JavaScript |
 | VBS | Visual Basic Script |
 | VBA | Visual Basic for Applications |
 | GPO | Group Policy |
