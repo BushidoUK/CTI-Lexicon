@@ -1,3 +1,11 @@
+## CTI Lexicon
+
+
+#### Welcome to the CTI Lexicon, your guide to some of the jargon and acronyms liberally used in CTI. You will sometimes find these peppered in reports with no explanation offered or in the Tweets by professionals from Infosec Twitter™. 
+
+
+![WordCloud](https://i.imgur.com/D5LL3oH.png)
+
 ### `General`
 | ACRONYM | DESCRIPTION |
 | --- | --- |
