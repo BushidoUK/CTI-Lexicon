@@ -6,6 +6,8 @@
 
 ![WordCloud](https://i.imgur.com/D5LL3oH.png)
 
+![BushidoUK's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=BushidoUK&repo=CTI-Lexicon&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
+
 ### `General`
 | ACRONYM | DESCRIPTION |
 | --- | --- |
