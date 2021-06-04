@@ -132,7 +132,6 @@
 | DC | Domain Controller |
 | NTFS | New Technology File System |
 | NRD | Newly Registered Domain |
-| FQDN | Fully Qualified Domain Name |
 | JS | JavaScript |
 | VBS | Visual Basic Script |
 | VBA | Visual Basic for Applications |
@@ -140,7 +139,10 @@
 | OS | Operating System |
 | SSD | Solid State Drive |
 | HDD | Hard Disk Drive |
-| | |
+| FQDN | Fully Qualified Domain Name |
+| CIDR | Classless Inter-Domain Routing |
+| BGP | Border Gateway Protocol |
+|||
 
 ### `Industry`
 | ACRONYM | DESCRIPTION |
