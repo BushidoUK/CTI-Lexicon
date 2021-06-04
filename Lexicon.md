@@ -202,6 +202,8 @@
 | WP | Word Press |
 | AWS | Amazon Web Services |
 | GCP | Google Cloud Platform |
+| SME (1) | Small Medium Enterprise |
+| SME (2) | Subject Matter Expert |
 | | |
 
 ### `CTI Jargon`
