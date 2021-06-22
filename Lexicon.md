@@ -18,6 +18,7 @@
 | TTP | Tactics, Techniques, and Procedures |
 | RFI | Request For Information |
 | SOP | Standard Operating Procedure |
+| ICP | Intelligence Collection Plan |
 | PIR | Priority Intelligence Requirements |
 | OSINT | Open Source Intelligence |
 | HUMINT | Human Intelligence |
@@ -189,6 +190,8 @@
 | CCPA | California Consumer Privacy Act |
 | CMA | Computer Misuse Act |
 | CFAA | Computer Fraud and Abuse Act |
+| MLAT | Mutual Legal Assistance Treaty |
+| CLOUDA | Clarifying Lawful Overseas Use of Data Act |
 | IP | Intellectual Property |
 | BTC | Bitcoin |
 | ETH | Ethereum |
