@@ -64,6 +64,8 @@
 | RGB | North Korean Reconnaissance General Bureau |
 | NSA TAO | National Security Agency Tailored Access Operations |
 | NSA SID | National Security Agency Signals Intelligence Directorate |
+| NSC | National Security Council |
+| DNI | Director of National Intelligence |
 | CIA | Central Intelligence Agency |
 | CYBERCOM | United States Cyber Command |
 | FBI | Federal Bureau of Investigation |
@@ -73,8 +75,12 @@
 | ENISA | European Union Agency for Cybersecurity |
 | NCSC | UK National Cyber Security Centre |
 | GCHQ | UK Government Communications Headquaters |
+| JFCyG | Joint Forces Cyber Group |
+| NCF | National Cyber Force |
 | CCCS | Canadian Centre for Cyber Security |
+| CSIS | Canadian Security Intelligence Service |
 | ACSC | Australian Cyber Security Centre |
+| ASD | Australian Signals Directorate |
 | BND | Federal Intelligence Service of Germany |
 | AIVD | General Intelligence and Security Service of Netherlands |
 | ISI | Inter-Services Intelligence of Pakistan |
@@ -82,7 +88,12 @@
 | GIP | General Intelligence Presidency of Saudi |
 | SIA | Signals Intelligence Agency of UAE |
 | DGSE | Directorate-General for External Security of France |
+| ANSSI | French National Cybersecurity Agency |
 | NIS | National Intelligence Service of South Korea |
+| IDF | Israel Defense Forces |
+| INCD | Israeli National Cyber Directorate |
+| JSDF | Japan Self-Defense Forces |
+| OIC | Organisation of Islamic Cooperation |
 | | |
 
 ### `Technical`
