@@ -30,6 +30,7 @@
 | CNOs | Computer Network Operators |
 | IOs | Influence Operations |
 | PSYOPS | Psychological Operations |
+| ISR | Intelligence, Surveillance, and Reconnaissance |
 | AKA | Also Known As |
 | BEC | Business Email Compromise |
 | IoT | Internet of Things |
@@ -221,6 +222,7 @@
 | SME (1) | Small Medium Enterprise |
 | SME (2) | Subject Matter Expert |
 | PSOA | Private Sector Offensive Actor |
+| QRF | Quick Reaction Force |
 | | |
 
 ### `CTI Jargon`
