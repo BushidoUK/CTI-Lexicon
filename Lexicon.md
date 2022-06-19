@@ -43,6 +43,7 @@
 | MSM | Main-stream Media |
 | CVE | Common Vulnerabilities and Exploits |
 | CWE | Common Weaknesses Enumeration |
+| TVM | Threat and Vulnerability Management |
 | | |
 
 ### `Geopolitical`
@@ -155,6 +156,7 @@
 | FQDN | Fully Qualified Domain Name |
 | CIDR | Classless Inter-Domain Routing |
 | BGP | Border Gateway Protocol |
+| CMDB | Configuration Management Database | 
 |||
 
 ### `Industry`
