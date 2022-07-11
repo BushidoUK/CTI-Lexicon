@@ -115,8 +115,10 @@
 | PoC | Proof of Concept |
 | LOLBin | Living off the Land Binary |
 | LOLBAS | Living off the Land Binary and Scripts |
-| POS | Point of Sale |
+| PoS | Point of Sale |
 | VM | Virtual Machine |
+| VDI | Virtual Desktop Infrastructure |
+| ESXi | enterprise hypervisor developed by VMware |
 | VPN | Virtual Private Network |
 | VPS | Virtual Private Server |
 | RDP | Remote Desktop Protocol (Port 3389) |
@@ -157,6 +159,7 @@
 | CIDR | Classless Inter-Domain Routing |
 | BGP | Border Gateway Protocol |
 | CMDB | Configuration Management Database | 
+| MX | Mail Exchange |
 |||
 
 ### `Industry`
@@ -190,6 +193,7 @@
 | SIEM | Security Information and Event Management |
 | SOAR | Security Orchestration, Automation, and Response |
 | XDR | Extended Detection and Response |
+| UEBA | User Entity Behaviour Analytics |
 | ML | Machine Learning |
 | AI | Artificial Intelligence |
 | ROI | Return on Investment |
@@ -221,10 +225,12 @@
 | WP | Word Press |
 | AWS | Amazon Web Services |
 | GCP | Google Cloud Platform |
+| MDE | Microsoft Defender for Endpoint |
 | SME (1) | Small Medium Enterprise |
 | SME (2) | Subject Matter Expert |
 | PSOA | Private Sector Offensive Actor |
 | QRF | Quick Reaction Force |
+| FIDO | Fast Identity Online |
 | | |
 
 ### `CTI Jargon`
