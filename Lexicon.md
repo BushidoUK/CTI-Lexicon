@@ -189,6 +189,8 @@
 | HMI | Human Machine Interface |
 | DCS | Distributed Control System |
 | SIS | Safety Instrumented Systems |
+| BMS | Building Management System |
+| DCIM | Data Center and Infrastructure Management |
 | CNI | Critical National Infrastructure | 
 | SIEM | Security Information and Event Management |
 | SOAR | Security Orchestration, Automation, and Response |
