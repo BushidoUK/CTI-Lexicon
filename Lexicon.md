@@ -151,7 +151,7 @@
 | JS | JavaScript |
 | VBS | Visual Basic Script |
 | VBA | Visual Basic for Applications |
-| GPO | Group Policy |
+| GPO | Group Policy Object |
 | OS | Operating System |
 | SSD | Solid State Drive |
 | HDD | Hard Disk Drive |
