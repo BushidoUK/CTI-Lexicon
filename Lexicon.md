@@ -273,6 +273,7 @@
 | Deepweb | Closed parts of the clear web (e.g. group chats, private servers, underground forums) |
 | Doxxed | When an individual's private information is made public |
 | Honeypot | A system that mimics a device to attract attackers |
+| Honeytrap | A threat actor (attractive in appearance) deployed to target personnel |
 | Social Engineering | Exploiting the human factor in a secure system |
 | Access Broker | A hacker who sells their initial foothold in a network |
 | Data Broker | A hacker who sells databases and information |
