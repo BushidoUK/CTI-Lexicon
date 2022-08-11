@@ -96,6 +96,7 @@
 | INCD | Israeli National Cyber Directorate |
 | JSDF | Japan Self-Defense Forces |
 | OIC | Organisation of Islamic Cooperation |
+| BRI | Belt and Road Initiative |
 | | |
 
 ### `Technical`
@@ -160,6 +161,12 @@
 | BGP | Border Gateway Protocol |
 | CMDB | Configuration Management Database | 
 | MX | Mail Exchange |
+| IX | Internet Exchange |
+| FP | False Positive  |
+| TP | True Positive |
+| FN | False Negative |
+| TN | True Negative |
+| RCA | Root Cause Analysis |
 |||
 
 ### `Industry`
@@ -192,6 +199,7 @@
 | BMS | Building Management System |
 | DCIM | Data Center and Infrastructure Management |
 | CNI | Critical National Infrastructure | 
+| CIKR | Critical Infrastructure and Key Resources |
 | SIEM | Security Information and Event Management |
 | SOAR | Security Orchestration, Automation, and Response |
 | XDR | Extended Detection and Response |
