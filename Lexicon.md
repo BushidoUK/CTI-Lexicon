@@ -27,7 +27,9 @@
 | OPSEC | Operational Security |  
 | TA | Threat Actor |
 | APT | Advanced Persistent Threat |
-| CNOs | Computer Network Operators |
+| CNOs | Computer Network Operations |
+| CNA | Computer Network Attack |
+| CNE | Computer Network Exploitation |
 | IOs | Influence Operations |
 | PSYOPS | Psychological Operations |
 | ISR | Intelligence, Surveillance, and Reconnaissance |
@@ -38,9 +40,9 @@
 | FUD (1) | Fear, Uncertainty, Doubt |
 | PII | Personally Identifiable Information |
 | BGH | Big Game Hunting |
-| HOR | Human-operated Ransomware |
+| HOR | Human-Operated Ransomware |
 | HOK | Hands-on-Keyboard |
-| MSM | Main-stream Media |
+| MSM | Mainstream Media |
 | CVE | Common Vulnerabilities and Exploits |
 | CWE | Common Weaknesses Enumeration |
 | TVM | Threat and Vulnerability Management |
