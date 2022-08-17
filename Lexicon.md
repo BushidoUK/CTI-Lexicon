@@ -44,6 +44,7 @@
 | CVE | Common Vulnerabilities and Exploits |
 | CWE | Common Weaknesses Enumeration |
 | TVM | Threat and Vulnerability Management |
+| DEATH | Detection Engineering And Threat Hunting |
 | | |
 
 ### `Geopolitical`
