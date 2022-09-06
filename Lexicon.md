@@ -47,6 +47,12 @@
 | CWE | Common Weaknesses Enumeration |
 | TVM | Threat and Vulnerability Management |
 | DEATH | Detection Engineering And Threat Hunting |
+| BLUF | Bottom Line Up Front |
+| FINTEL | Finished Intelligence |
+| ACH | Analysis of Competing Hypotheses |
+| KIQ | Key Intel Questions |
+| STIX | Structured Threat Information Expression |
+| TAXII | Trusted Automated Exchange of Indicator Information |
 | | |
 
 ### `Geopolitical`
@@ -100,6 +106,7 @@
 | JSDF | Japan Self-Defense Forces |
 | OIC | Organisation of Islamic Cooperation |
 | BRI | Belt and Road Initiative |
+| QRF | Quick Reaction Force |
 | | |
 
 ### `Technical`
@@ -170,6 +177,7 @@
 | FN | False Negative |
 | TN | True Negative |
 | RCA | Root Cause Analysis |
+| OCR | Optical Character Recognition |
 |||
 
 ### `Industry`
@@ -178,6 +186,7 @@
 | SOC | Security Operations Centre |
 | CERT | Computer Emergency Response Team |
 | ISAC | Information Sharing and Analysis Center |
+| ISAO | Information Sharing and Analysis Organization |
 | PSIRT | Product Security Incident Response Team |
 | CSIRT | Computer Security Incident Response Team |
 | ISP | Internet Service Provider |
@@ -238,12 +247,23 @@
 | WP | Word Press |
 | AWS | Amazon Web Services |
 | GCP | Google Cloud Platform |
+| OCI | Oracle Cloud Infrastructure |
 | MDE | Microsoft Defender for Endpoint |
 | SME (1) | Small Medium Enterprise |
 | SME (2) | Subject Matter Expert |
 | PSOA | Private Sector Offensive Actor |
-| QRF | Quick Reaction Force |
 | FIDO | Fast Identity Online |
+| PKI | Public Key Infrastructure |
+| OKR | Objectives and Key Results |
+| SMART | Specific, Measurable, Assignable, Realistic and Time-related |
+| SLA | Service-level Agreement |
+| BCP | Business Continuity Plan |
+| DRP | Disaster Recovery Plan |
+| IRP | Incident Response Plan |
+| GRC | Governance Risk and Compliance |
+| IAM | Identity and Access Management |
+| MDR | Managed Detection and Response |
+| ATO | Account Take Over |
 | | |
 
 ### `CTI Jargon`
@@ -298,4 +318,5 @@
 | Carding | Fraud using stolen credit cards |
 | Magecart | Cybercriminals who target online shopping cart systems built with Magento |
 | Golden Image/VM | Templates of OS images with preconfigured settings and applications that can redeployed quickly |
+| Zero Trust | a security model based on the idea devices should not be trusted by default |
 | | |
