@@ -268,6 +268,7 @@
 | XMR | Monero |
 | DeFi | Decentralised Finance |
 | KYC | Know Your Customer |
+| CDD | Customer Due Diligence |
 | PoS | Point of Sale |
 | OFAC | Office of Foreign Assets Control (US) |
 | FINCEN | Financial Crimes Enforcement Network (US) |
