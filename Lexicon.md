@@ -126,7 +126,6 @@
 | PoC | Proof of Concept |
 | LOLBin | Living off the Land Binary |
 | LOLBAS | Living off the Land Binary and Scripts |
-| PoS | Point of Sale |
 | VM | Virtual Machine |
 | VDI | Virtual Desktop Infrastructure |
 | ESXi | enterprise hypervisor developed by VMware |
@@ -219,11 +218,9 @@
 | ML | Machine Learning |
 | AI | Artificial Intelligence |
 | ROI | Return on Investment |
-| KYC | Know Your Customer |
 | FMCG | Fast Moving Consumer Goods |
 | NPP | Nuclear Power Plant |
 | O&G | Oil and Gas (also ONG) |
-| DeFi | Decentralised Finance |
 | UTM | Unified Threat Management |
 | LEA | Law Enforcement Agency |
 | GDPR | General Data Protection Regulation |
@@ -233,9 +230,6 @@
 | MLAT | Mutual Legal Assistance Treaty |
 | CLOUDA | Clarifying Lawful Overseas Use of Data Act |
 | IP | Intellectual Property |
-| BTC | Bitcoin |
-| ETH | Ethereum |
-| XMR | Monero |
 | FOUO | For Official Use Only |
 | ORCON | Originator Control |
 | NOFORN | No Foreign Nationals |
@@ -265,6 +259,20 @@
 | MDR | Managed Detection and Response |
 | ATO | Account Take Over |
 | | |
+
+### `Financial`
+| TERM | DESCRIPTION |
+| --- | --- |
+| BTC | Bitcoin |
+| ETH | Ethereum |
+| XMR | Monero |
+| DeFi | Decentralised Finance |
+| KYC | Know Your Customer |
+| PoS | Point of Sale |
+| OFAC | Office of Foreign Assets Control (US) |
+| FINCEN | Financial Crimes Enforcement Network (US) |
+| FCA | Financial Conduct Authority (UK) |
+| SAR | Suspicious Activity Report |
 
 ### `CTI Jargon`
 | TERM | DESCRIPTION |
