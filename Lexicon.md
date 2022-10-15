@@ -260,7 +260,7 @@
 | ATO | Account Take Over |
 | | |
 
-### `Financial`
+### `Financial Crimes`
 | TERM | DESCRIPTION |
 | --- | --- |
 | BTC | Bitcoin |
@@ -273,6 +273,9 @@
 | FINCEN | Financial Crimes Enforcement Network (US) |
 | FCA | Financial Conduct Authority (UK) |
 | SAR | Suspicious Activity Report |
+| AML | Anti-Money Launder |
+| CFT | Combating the Financing of Terrorism |
+| FATF | Financial Action Task Force |
 
 ### `CTI Jargon`
 | TERM | DESCRIPTION |
