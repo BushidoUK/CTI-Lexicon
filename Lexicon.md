@@ -267,6 +267,8 @@
 | ETH | Ethereum |
 | XMR | Monero |
 | DeFi | Decentralised Finance |
+| VAs | Virtual Assets |
+| VASPs | Virtual Asset Service Providers |
 | KYC | Know Your Customer |
 | CDD | Customer Due Diligence |
 | PoS | Point of Sale |
@@ -274,6 +276,9 @@
 | FINCEN | Financial Crimes Enforcement Network (US) |
 | FCA | Financial Conduct Authority (UK) |
 | SAR | Suspicious Activity Report |
+| STR | Suspicious Transaction Report |
+| ML | Money Laundering |
+| TF | Terrorist Financing |
 | AML | Anti-Money Launder |
 | CFT | Combating the Financing of Terrorism |
 | FATF | Financial Action Task Force |
