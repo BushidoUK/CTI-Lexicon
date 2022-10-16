@@ -287,6 +287,7 @@
 | FATF | Financial Action Task Force |
 | SWIFT | Society for Worldwide Interbank Financial Telecommunication |
 | ACH (2) | Automated Clearing House |
+| FIU | Financial Intelligence Unit |
 | | |
 
 ### `CTI Jargon`
