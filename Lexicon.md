@@ -267,6 +267,9 @@
 | ETH | Ethereum |
 | XMR | Monero |
 | DeFi | Decentralised Finance |
+| DEX | Decentralized Exchange |
+| CEX | Centralized Exchange |
+| P2PE | Peer-to-peer Exchange |
 | VAs | Virtual Assets |
 | VASPs | Virtual Asset Service Providers |
 | KYC | Know Your Customer |
