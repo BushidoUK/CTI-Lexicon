@@ -49,7 +49,7 @@
 | DEATH | Detection Engineering And Threat Hunting |
 | BLUF | Bottom Line Up Front |
 | FINTEL | Finished Intelligence |
-| ACH | Analysis of Competing Hypotheses |
+| ACH (1) | Analysis of Competing Hypotheses |
 | KIQ | Key Intel Questions |
 | STIX | Structured Threat Information Expression |
 | TAXII | Trusted Automated Exchange of Indicator Information |
@@ -285,6 +285,9 @@
 | AML | Anti-Money Launder |
 | CFT | Combating the Financing of Terrorism |
 | FATF | Financial Action Task Force |
+| SWIFT | Society for Worldwide Interbank Financial Telecommunication |
+| ACH (2) | Automated Clearing House |
+| | |
 
 ### `CTI Jargon`
 | TERM | DESCRIPTION |
