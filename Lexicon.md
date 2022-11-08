@@ -25,6 +25,7 @@
 | ICP | Intelligence Collection Plan |
 | PIR | Priority Intelligence Requirements |
 | GIR | General Intelligence Requirements |
+| KIQ | Key Intelligence Questions |
 | OSINT | Open Source Intelligence |
 | HUMINT | Human Intelligence |
 | SIGINT | Signal Intelligence |
@@ -39,27 +40,19 @@
 | CNOs | Computer Network Operations |
 | CNA | Computer Network Attack |
 | CNE | Computer Network Exploitation |
-| IOs | Influence Operations |
+| I/Os | Influence Operations |
 | PSYOPS | Psychological Operations |
 | ISR | Intelligence, Surveillance, and Reconnaissance |
 | AKA | Also Known As |
-| BEC | Business Email Compromise |
-| IoT | Internet of Things |
-| TOR | The Onion Router |
 | FUD (1) | Fear, Uncertainty, Doubt |
-| PII | Personally Identifiable Information |
 | BGH | Big Game Hunting |
 | HOR | Human-Operated Ransomware |
 | HOK | Hands-on-Keyboard |
 | MSM | Mainstream Media |
-| CVE | Common Vulnerabilities and Exploits |
-| CWE | Common Weaknesses Enumeration |
-| TVM | Threat and Vulnerability Management |
 | DEATH | Detection Engineering And Threat Hunting |
 | BLUF | Bottom Line Up Front |
 | FINTEL | Finished Intelligence |
 | ACH (1) | Analysis of Competing Hypotheses |
-| KIQ | Key Intel Questions |
 | STIX | Structured Threat Information Expression |
 | TAXII | Trusted Automated Exchange of Indicator Information |
 | CARVER | Criticality, Accessibility, Recuperability, Vulnerability, Effect and Recognizability |
@@ -123,6 +116,11 @@
 ### `Technical`
 | ACRONYM | DESCRIPTION |
 | --- | --- |
+| BEC | Business Email Compromise |
+| CVE | Common Vulnerabilities and Exploits |
+| CWE | Common Weaknesses Enumeration |
+| IoT | Internet of Things |
+| TOR | The Onion Router |
 | RAT | Remote Access Trojan |
 | C&C | Command and Control Server (aka C2 or CnC) |
 | RaaS | Ransomware as a Service |
@@ -198,10 +196,12 @@
 | --- | --- |
 | SOC | Security Operations Centre |
 | CERT | Computer Emergency Response Team |
+| TVM | Threat and Vulnerability Management |
 | ISAC | Information Sharing and Analysis Center |
 | ISAO | Information Sharing and Analysis Organization |
 | PSIRT | Product Security Incident Response Team |
 | CSIRT | Computer Security Incident Response Team |
+| PII | Personally Identifiable Information |
 | ISP | Internet Service Provider |
 | MSP | Managed Service Provider |
 | MSSP | Managed Security Service Provider |
