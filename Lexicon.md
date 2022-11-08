@@ -183,6 +183,8 @@
 | RCA | Root Cause Analysis |
 | OCR | Optical Character Recognition |
 | DPI | Deep Packet Inspection |
+| DNS | Domain Name System |
+| DOH | DNS over HTTPS |
 |||
 
 ### `Industry`
@@ -264,6 +266,7 @@
 | IAM | Identity and Access Management |
 | MDR | Managed Detection and Response |
 | ATO | Account Take Over |
+| HSM | Hardware Security Module | 
 | | |
 
 ### `Financial Crimes`
@@ -350,4 +353,5 @@
 | Magecart | Cybercriminals who target online shopping cart systems built with Magento |
 | Golden Image/VM | Templates of OS images with preconfigured settings and applications that can redeployed quickly |
 | Zero Trust | a security model based on the idea devices should not be trusted by default |
+| Tiger Team | a team of specialists assembled to work on a specific goal or to solve a particular problem |
 | | |
