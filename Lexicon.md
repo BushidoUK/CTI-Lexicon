@@ -56,6 +56,7 @@
 | KIQ | Key Intel Questions |
 | STIX | Structured Threat Information Expression |
 | TAXII | Trusted Automated Exchange of Indicator Information |
+| CARVER | Criticality, Accessibility, Recuperability, Vulnerability, Effect and Recognizability |
 | | |
 
 ### `Geopolitical`
@@ -66,6 +67,7 @@
 | APAC | Asia-Pacific |
 | ASEAN | Association of Southeast Asian Nations |
 | LATAM | Latin America |
+| BRICS |  Brazil, Russia, India, China and South Africa |
 | CIS | Commonwealth of Independent States |
 | NATO | North Atlantic Treaty Organisation |
 | FVEY | Five Eyes Intelligence Alliance - US, UK, Australia, Canada, New Zealand |
@@ -180,6 +182,7 @@
 | TN | True Negative |
 | RCA | Root Cause Analysis |
 | OCR | Optical Character Recognition |
+| DPI | Deep Packet Inspection |
 |||
 
 ### `Industry`
@@ -291,6 +294,7 @@
 | SWIFT | Society for Worldwide Interbank Financial Telecommunication |
 | ACH (2) | Automated Clearing House |
 | FIU | Financial Intelligence Unit |
+| PRF | Payment Redirection Fraud |
 | | |
 
 ### `CTI Jargon`
