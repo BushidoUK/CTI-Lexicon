@@ -15,18 +15,24 @@
 | SATs | Structured Analytic Techniques |
 | TIP | Threat Intelligence Portal |
 | IOC | Indicator of Compromise |
+| IOA | Indicator of Attack |
 | AOO | Action on Objectives |
 | COA | Courses of Action |
 | TLP | Traffic Light Protocol |
 | TTP | Tactics, Techniques, and Procedures |
-| RFI | Request For Information |
+| RFI | Request For Information/Intelligence |
 | SOP | Standard Operating Procedure |
 | ICP | Intelligence Collection Plan |
 | PIR | Priority Intelligence Requirements |
+| GIR | General Intelligence Requirements |
 | OSINT | Open Source Intelligence |
 | HUMINT | Human Intelligence |
 | SIGINT | Signal Intelligence |
 | SOCMINT | Social Media Intelligence |
+| GEOINT | Geopolitical Intelligence |
+| MASINT | Measurements Intelligence |
+| FININT | Financial Intelligence |
+| CRIMINT | Criminal Intelligence |
 | OPSEC | Operational Security |  
 | TA | Threat Actor |
 | APT | Advanced Persistent Threat |
