@@ -360,4 +360,7 @@
 | Golden Image/VM | Templates of OS images with preconfigured settings and applications that can redeployed quickly |
 | Zero Trust | a security model based on the idea devices should not be trusted by default |
 | Tiger Team | a team of specialists assembled to work on a specific goal or to solve a particular problem |
+| Mixer | A non-custodial service for laundering cryptocurrency by obfuscating transactions |
+| CoinJoin | A method to obfuscate transactions by obfuscating wallet addresses |
+| Chain Hopping | A method to obfuscate cryptocurrency transactions by changing blockchains/cryptocurrencies |
 | | |
