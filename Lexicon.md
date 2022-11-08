@@ -12,8 +12,11 @@
 | ACRONYM | DESCRIPTION |
 | --- | --- |
 | CTI | Cyber Threat Intelligence |
+| SATs | Structured Analytic Techniques |
 | TIP | Threat Intelligence Portal |
 | IOC | Indicator of Compromise |
+| AOO | Action on Objectives |
+| COA | Courses of Action |
 | TLP | Traffic Light Protocol |
 | TTP | Tactics, Techniques, and Procedures |
 | RFI | Request For Information |
