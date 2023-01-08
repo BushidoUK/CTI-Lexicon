@@ -100,6 +100,7 @@
 | AIVD | General Intelligence and Security Service of Netherlands |
 | ISI | Inter-Services Intelligence of Pakistan |
 | IB | Intelligence Bureau of India |
+| R&AW | Research & Analysis Wing of the Indian Foreign Intelligence Agency |
 | GIP | General Intelligence Presidency of Saudi |
 | SIA | Signals Intelligence Agency of UAE |
 | DGSE | Directorate-General for External Security of France |
