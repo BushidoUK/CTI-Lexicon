@@ -16,6 +16,8 @@
 | TIP | Threat Intelligence Portal |
 | IOC | Indicator of Compromise |
 | IOA | Indicator of Attack |
+| HBI | Host-based Indicator |
+| NBI | Network-based Indicator |
 | AOO | Action on Objectives |
 | COA | Courses of Action |
 | TLP | Traffic Light Protocol |
@@ -58,7 +60,7 @@
 | CARVER | Criticality, Accessibility, Recuperability, Vulnerability, Effect and Recognizability |
 | | |
 
-### `Geopolitical`
+### `Geopolitical and Public Sector`
 | ACRONYM | DESCRIPTION |
 | --- | --- |
 | MENA | Middle East and Northern Africa |
@@ -111,7 +113,11 @@
 | JSDF | Japan Self-Defense Forces |
 | OIC | Organisation of Islamic Cooperation |
 | BRI | Belt and Road Initiative |
+| GCC | Gulf Cooperation Council |
 | QRF | Quick Reaction Force |
+| CBRN | Chemical, Biological, Radiological, Nunclear |
+| DSTL | Defence, Science, Technology Laboratory |
+| CTSFO | Counter Terrorist Specialist Firearms Officer |
 | | |
 
 ### `Technical`
@@ -274,6 +280,11 @@
 | MDR | Managed Detection and Response |
 | ATO | Account Take Over |
 | HSM | Hardware Security Module | 
+| MNO | Mobile Network Operator |
+| UAT | User Acceptance Testing |
+| MUA | Mail User Agent |
+| MTA | Message Transfer Agent |
+| MDA | Message Delivery Agent |
 | | |
 
 ### `Financial Crimes`
@@ -305,6 +316,8 @@
 | ACH (2) | Automated Clearing House |
 | FIU | Financial Intelligence Unit |
 | PRF | Payment Redirection Fraud |
+| PCI DSS | Payment Card Industry Data Security Standard |
+| SVC | Stored Value Card |
 | | |
 
 ### `CTI Jargon`
