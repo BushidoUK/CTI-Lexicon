@@ -1,12 +1,5 @@
-## CTI Lexicon
-
-
-#### Welcome to the CTI Lexicon, your guide to some of the jargon and acronyms liberally used in CTI. You will sometimes find these peppered in reports with no explanation offered or in the Tweets by professionals from Infosec Twitter™. 
-
-
-![WordCloud](https://i.imgur.com/D5LL3oH.png)
-
-![BushidoUK's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=BushidoUK&repo=CTI-Lexicon&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
+# CTI Lexicon
+- Welcome to the CTI Lexicon, your guide to some of the jargon and acronyms liberally used in CTI. You will sometimes find these peppered in reports with no explanation offered or in the Tweets by professionals from Infosec Twitter™. 
 
 ### `General Cyber Threat Intelligence Terms`
 | ACRONYM | DESCRIPTION |
