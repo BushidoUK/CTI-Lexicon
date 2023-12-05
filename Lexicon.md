@@ -66,6 +66,10 @@
 | NOFORN | No Foreign Nationals |
 | SC/eSC | Security Check / Enhanced Security Check |
 | DV/eDV | Developed Vetting / Enhanced Developed Vetting |
+| SCIF | Sensitive Compartmentalised Information Facility | 
+| CHSI | Confidential Human Source Information |
+| OPE | Operational Preparation of the Environment |
+| CONOPS | Concept of Operations |
 
 ### `Geopolitical and Public Sector`
 | ACRONYM | DESCRIPTION |
@@ -92,7 +96,6 @@
 | DNI | Director of National Intelligence |
 | CIA | Central Intelligence Agency |
 | CYBERCOM | United States Cyber Command |
-| FBI | Federal Bureau of Investigation |
 | DOJ | US Department of Justice |
 | DHS | US Department of Homeland Security |
 | CISA | Cybersecurity and Infrastructure Security Agency |
@@ -119,16 +122,33 @@
 | INCD | Israeli National Cyber Directorate |
 | JSDF | Japan Self-Defense Forces |
 | OIC | Organisation of Islamic Cooperation |
-| BRI | Belt and Road Initiative |
+| BRI | The Chinese Belt and Road Initiative |
 | GCC | Gulf Cooperation Council |
 | QRF | Quick Reaction Force |
 | CBRN | Chemical, Biological, Radiological, Nunclear |
-| DSTL | Defence, Science, Technology Laboratory |
-| CTSFO | Counter Terrorist Specialist Firearms Officer |
-| LEA | Law Enforcement Agency |
+| DSTL | The UK Defence, Science, Technology Laboratory |
 | CNI | Critical National Infrastructure | 
 | CIKR | Critical Infrastructure and Key Resources |
-| | |
+
+### `Law Enforcement & Counterrorism Terms`
+| ACRONYM | DESCRIPTION |
+| --- | --- |
+| CTSFO | Counter Terrorist Specialist Firearms Officer |
+| LEA | Law Enforcement Agency |
+| FBI | US Federal Bureau of Investigation |
+| NCA | UK National Crime Agency |
+| MLAT | Mutual Legal Assistance Treaty |
+| CLOUDA | Clarifying Lawful Overseas Use of Data Act |
+| FTO | Foreign Terrorist Organisation |
+| HVE | Home-grown Violent Extremist |
+| DVE | Domestic Violent Extremist |
+| ULO | Unaffiliated Violent Extremist |
+| ERWT | Extremist Right Wing Terrorist |
+| ELWT | Extremist Left Wing Terrorist |
+| SIT | Single Issue Terrorist |
+| MCI | Mass Casualty Incident |
+| UAS | Unmanned Aircraft System |
+| UAV | Unmanned Aerial Vehicle |
 
 ### `Technical`
 | ACRONYM | DESCRIPTION |
@@ -288,6 +308,7 @@
 | MUA | Mail User Agent |
 | MTA | Message Transfer Agent |
 | MDA | Message Delivery Agent |
+| VX | Virus Exchange |
 | | |
 
 ### `Financial Crimes`
