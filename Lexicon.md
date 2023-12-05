@@ -8,20 +8,41 @@
 
 ![BushidoUK's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=BushidoUK&repo=CTI-Lexicon&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
 
-### `General`
+### `General Cyber Threat Intelligence Terms`
 | ACRONYM | DESCRIPTION |
 | --- | --- |
 | CTI | Cyber Threat Intelligence |
-| SATs | Structured Analytic Techniques |
 | TIP | Threat Intelligence Portal |
-| IOC | Indicator of Compromise |
-| IOA | Indicator of Attack |
+| IOCs | Indicators of Compromise |
+| IOAs | Indicators of Attack |
 | HBI | Host-based Indicator |
 | NBI | Network-based Indicator |
-| AOO | Action on Objectives |
-| COA | Courses of Action |
 | TLP | Traffic Light Protocol |
 | TTP | Tactics, Techniques, and Procedures |
+| TA | Threat Actor |
+| APT | Advanced Persistent Threat |
+| CNOs | Computer Network Operations |
+| CNAs | Computer Network Attacks |
+| CNE | Computer Network Exploitation |
+| BGH | Big Game Hunting |
+| HOR | Human-Operated Ransomware |
+| HOK | Hands-on-Keyboard |
+| DEATH | Detection Engineering And Threat Hunting |
+| STIX | Structured Threat Information Expression |
+| TAXII | Trusted Automated Exchange of Indicator Information |
+| MAR | Malware Analysis Report |
+
+### `General Intelligence Terms`
+| ACRONYM | DESCRIPTION |
+| --- | --- |
+| CARVER | Criticality, Accessibility, Recuperability, Vulnerability, Effect and Recognizability |
+| BLUF | Bottom Line Up Front |
+| FINTEL | Finished Intelligence |
+| ACH (1) | Analysis of Competing Hypotheses |
+| I/Os | Influence Operations |
+| PSYOPS | Psychological Operations |
+| ISR | Intelligence, Surveillance, and Reconnaissance |
+| AKA | Also Known As |
 | RFI | Request For Information/Intelligence |
 | SOP | Standard Operating Procedure |
 | ICP | Intelligence Collection Plan |
@@ -36,29 +57,15 @@
 | MASINT | Measurements Intelligence |
 | FININT | Financial Intelligence |
 | CRIMINT | Criminal Intelligence |
-| OPSEC | Operational Security |  
-| TA | Threat Actor |
-| APT | Advanced Persistent Threat |
-| CNOs | Computer Network Operations |
-| CNA | Computer Network Attack |
-| CNE | Computer Network Exploitation |
-| I/Os | Influence Operations |
-| PSYOPS | Psychological Operations |
-| ISR | Intelligence, Surveillance, and Reconnaissance |
-| AKA | Also Known As |
-| FUD (1) | Fear, Uncertainty, Doubt |
-| BGH | Big Game Hunting |
-| HOR | Human-Operated Ransomware |
-| HOK | Hands-on-Keyboard |
-| MSM | Mainstream Media |
-| DEATH | Detection Engineering And Threat Hunting |
-| BLUF | Bottom Line Up Front |
-| FINTEL | Finished Intelligence |
-| ACH (1) | Analysis of Competing Hypotheses |
-| STIX | Structured Threat Information Expression |
-| TAXII | Trusted Automated Exchange of Indicator Information |
-| CARVER | Criticality, Accessibility, Recuperability, Vulnerability, Effect and Recognizability |
-| | |
+| OPSEC | Operational Security | 
+| SATs | Structured Analytic Techniques |
+| AOO | Action on Objectives |
+| COA | Courses of Action |
+| FOUO | For Official Use Only |
+| ORCON | Originator Control |
+| NOFORN | No Foreign Nationals |
+| SC/eSC | Security Check / Enhanced Security Check |
+| DV/eDV | Developed Vetting / Enhanced Developed Vetting |
 
 ### `Geopolitical and Public Sector`
 | ACRONYM | DESCRIPTION |
@@ -118,6 +125,9 @@
 | CBRN | Chemical, Biological, Radiological, Nunclear |
 | DSTL | Defence, Science, Technology Laboratory |
 | CTSFO | Counter Terrorist Specialist Firearms Officer |
+| LEA | Law Enforcement Agency |
+| CNI | Critical National Infrastructure | 
+| CIKR | Critical Infrastructure and Key Resources |
 | | |
 
 ### `Technical`
@@ -154,6 +164,7 @@
 | SSRF | Server-side Request Forgery |
 | XXE | XML External Entity |
 | SQLi | Sequel Injection |
+| FUD (1) | Fear, Uncertainty, Doubt |
 | FUD (2) | Fully Undetected |
 | TCP/IP | Transmission Control Protocol / Internet Protocol |
 | TLS | Transport Layer Security |
@@ -198,9 +209,10 @@
 | DOH | DNS over HTTPS |
 |||
 
-### `Industry`
+### `Infosec Industry Terms`
 | ACRONYM | DESCRIPTION |
 | --- | --- |
+| MSM | Mainstream Media |
 | SOC | Security Operations Centre |
 | CERT | Computer Emergency Response Team |
 | TVM | Threat and Vulnerability Management |
@@ -213,7 +225,6 @@
 | MSP | Managed Service Provider |
 | MSSP | Managed Security Service Provider |
 | VDP | Vulnerability Disclosure Program |
-| MAR | Malware Analysis Report |
 | IR | Incident Response |
 | DFIR | Digital Forensics and Incident Response |
 | EDR | Endpoint Detection and Response |
@@ -230,8 +241,6 @@
 | SIS | Safety Instrumented Systems |
 | BMS | Building Management System |
 | DCIM | Data Center and Infrastructure Management |
-| CNI | Critical National Infrastructure | 
-| CIKR | Critical Infrastructure and Key Resources |
 | SIEM | Security Information and Event Management |
 | SOAR | Security Orchestration, Automation, and Response |
 | XDR | Extended Detection and Response |
@@ -243,7 +252,6 @@
 | NPP | Nuclear Power Plant |
 | O&G | Oil and Gas (also ONG) |
 | UTM | Unified Threat Management |
-| LEA | Law Enforcement Agency |
 | GDPR | General Data Protection Regulation |
 | CCPA | California Consumer Privacy Act |
 | CMA | Computer Misuse Act |
@@ -251,11 +259,6 @@
 | MLAT | Mutual Legal Assistance Treaty |
 | CLOUDA | Clarifying Lawful Overseas Use of Data Act |
 | IP | Intellectual Property |
-| FOUO | For Official Use Only |
-| ORCON | Originator Control |
-| NOFORN | No Foreign Nationals |
-| SC/eSC | Security Check / Enhanced Security Check |
-| DV/eDV | Developed Vetting / Enhanced Developed Vetting |
 | FOIA | Freedom of Information Act |
 | TTX | Table Top Exercise |
 | HIBP | Have I Been Pwned |
@@ -267,7 +270,7 @@
 | SME (1) | Small Medium Enterprise |
 | SME (2) | Subject Matter Expert |
 | PSOA | Private Sector Offensive Actor |
-| FIDO | Fast Identity Online |
+| FIDO | Fast Identity (ID) Online |
 | PKI | Public Key Infrastructure |
 | OKR | Objectives and Key Results |
 | SMART | Specific, Measurable, Assignable, Realistic and Time-related |
@@ -320,9 +323,12 @@
 | SVC | Stored Value Card |
 | | |
 
-### `CTI Jargon`
+### `CTI, Technical, and Intelligence Jargon`
 | TERM | DESCRIPTION |
 | --- | --- |
+| Counter Intelligence | Learning what the opposition knows |
+| State-sponsored | Supported financially or authorised by a sovereign state |
+| NatSec | National Security |
 | Malware | Malicious Software |
 | Ransomware | Malware that encrypts files and demands a ransom for the decryption key |
 | Wiper | Malware that destroys data |
@@ -330,27 +336,28 @@
 | Spyware | Malicious Software for surveillance |
 | Trojan | Malware in disguise |
 | Infostealer | Credential harvesting malware |
+| Web Shell | Command and script interpreter deployed on a compromised website |
 | Skimmer | Malicious script that exfiltrates form data from a website|
-| Cryptojacker | Malicious cryptocurrency mining program  |
+| Cryptomining/Cryptojacking | Malicious cryptocurrency mining program that consumes system resources |
+| Packer | Malware obfuscation tool |
+| Payload | Component intended for delivery |
+| Backdoor | Remote access via an infected system |
+| Botnet | Network of infected devices |
+| Loader | Malware delivery system |
 | Phishing | Malicious email to push malware or harvesting credentials |
 | Phishing Kit | Collection of assets used to launch a phishing campaign |
 | SMiShing | SMS-based phishing |
-| Spear-phishing | highly targeted phishing |
+| Simming/SIM Swapping | When mobile carriers are tricked to transfer a victim's phone number to an attacker |
+| Spear-phishing | Highly targeted phishing |
 | Vishing | Voice-based phishing |
 | Vulnerability | An error found within a system |
 | Exploit | Leveraging a vulnerability to gain an advantage |
 | Exploit Kit | Toolkit that exploits multiple vulnerabilities to push malware |
 | 0day | Unpatched vulnerability |
 | PrivEsc | Privilege Escalation |
-| PreAuth | pre-authentication (access without authorisation) |
-| Packer | Malware obfuscation tool |
-| Payload | Component intended for delivery |
-| Backdoor | Remote access via an infected system |
-| Botnet | Network of infected devices |
-| Loader | Malware delivery system |
+| PreAuth | Pre-authentication (access without authorisation) |
 | Patch Gap | Time between a software patch is released and vendors apply it |
 | Shell | Command and script interpreter deployed on a compromised system |
-| Webshell | Command and script interpreter deployed on a compromised website |
 | Enumeration | The process of listing all the attributes of a system |
 | Cybercrime | Computer aided crime (aka eCrime) |
 | Clearweb | Websites without a barrier to entry |
@@ -360,16 +367,13 @@
 | Honeypot | A system that mimics a device to attract attackers |
 | Honeytrap | A threat actor (attractive in appearance) deployed to target personnel |
 | Social Engineering | Exploiting the human factor in a secure system |
-| Access Broker | A hacker who sells their initial foothold in a network |
+| Initial Access Broker | A hacker who sells their initial foothold in a network |
 | Data Broker | A hacker who sells databases and information |
 | Proxy | A separate internet connection between the destination and the source (aka VPN, VPS) |
-| Counter Intelligence | Learning what the opposition knows |
 | Cyber-espionage | Computer-enabled state intelligence campaigns |
-| State-sponsored | Supported financially or authorised by a sovereign state |
-| NatSec | National Security |
 | Drive-by Compromise | Unintentional download of malicious code |
 | Sock Puppet | Fictitious online identity |
-| Carding | Fraud using stolen credit cards |
+| Carding/Carders | Fraud using stolen credit cards |
 | Magecart | Cybercriminals who target online shopping cart systems built with Magento |
 | Golden Image/VM | Templates of OS images with preconfigured settings and applications that can redeployed quickly |
 | Zero Trust | a security model based on the idea devices should not be trusted by default |
