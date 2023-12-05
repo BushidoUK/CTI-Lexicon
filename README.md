@@ -137,8 +137,7 @@
 | DVE | Domestic Violent Extremist |
 | ULO | Unaffiliated Violent Extremist |
 | ERWT | Extremist Right Wing Terrorist |
-| ELWT | Extremist Left Wing Terrorist |
-| SIT | Single Issue Terrorist |
+| LASIT | Left-Wing, Anarchist and Single-Issue Terrorism |
 | MCI | Mass Casualty Incident |
 | UAS | Unmanned Aircraft System |
 | UAV | Unmanned Aerial Vehicle |
