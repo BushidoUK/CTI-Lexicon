@@ -5,7 +5,7 @@
 | ACRONYM | DESCRIPTION |
 | --- | --- |
 | CTI | Cyber Threat Intelligence |
-| TIP | Threat Intelligence Portal |
+| TIP | Threat Intelligence Platform |
 | IOCs | Indicators of Compromise |
 | IOAs | Indicators of Attack |
 | HBI | Host-based Indicator |
